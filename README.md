@@ -1,4 +1,4 @@
-### Hi there 👋
+### Oi, eu sou o José Arthur, estudante de Ciência da Computação 👋
 
 <!--
 **Arthurls7/Arthurls7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
